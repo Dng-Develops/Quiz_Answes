@@ -1,0 +1,8 @@
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-2-solution\bin\Debug\Quiz-2-solution.exe.config
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-2-solution\bin\Debug\Quiz-2-solution.exe
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-2-solution\bin\Debug\Quiz-2-solution.pdb
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-2-solution\obj\Debug\Quiz-2-solution.csproj.AssemblyReference.cache
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-2-solution\obj\Debug\Quiz-2-solution.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-2-solution\obj\Debug\Quiz-2-solution.csproj.CoreCompileInputs.cache
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-2-solution\obj\Debug\Quiz-2-solution.exe
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-2-solution\obj\Debug\Quiz-2-solution.pdb

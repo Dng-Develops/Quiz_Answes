@@ -1,0 +1,8 @@
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Shortest\bin\Debug\Quiz-1-solution-Shortest.exe.config
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Shortest\bin\Debug\Quiz-1-solution-Shortest.exe
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Shortest\bin\Debug\Quiz-1-solution-Shortest.pdb
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Shortest\obj\Debug\Quiz-1-solution-Shortest.csproj.AssemblyReference.cache
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Shortest\obj\Debug\Quiz-1-solution-Shortest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Shortest\obj\Debug\Quiz-1-solution-Shortest.csproj.CoreCompileInputs.cache
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Shortest\obj\Debug\Quiz-1-solution-Shortest.exe
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Shortest\obj\Debug\Quiz-1-solution-Shortest.pdb

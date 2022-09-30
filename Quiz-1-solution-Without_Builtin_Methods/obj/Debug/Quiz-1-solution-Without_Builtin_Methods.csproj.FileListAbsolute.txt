@@ -1,0 +1,8 @@
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Without_Builtin_Methods\bin\Debug\Quiz-1-solution-Without_Builtin_Methods.exe.config
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Without_Builtin_Methods\bin\Debug\Quiz-1-solution-Without_Builtin_Methods.exe
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Without_Builtin_Methods\bin\Debug\Quiz-1-solution-Without_Builtin_Methods.pdb
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Without_Builtin_Methods\obj\Debug\Quiz-1-solution-Without_Builtin_Methods.csproj.AssemblyReference.cache
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Without_Builtin_Methods\obj\Debug\Quiz-1-solution-Without_Builtin_Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Without_Builtin_Methods\obj\Debug\Quiz-1-solution-Without_Builtin_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Without_Builtin_Methods\obj\Debug\Quiz-1-solution-Without_Builtin_Methods.exe
+C:\Users\Hz.Ord.Prof.Dr.Deniz\Desktop\Solutions\Quiz-Solutions\Quiz-1-solution-Without_Builtin_Methods\obj\Debug\Quiz-1-solution-Without_Builtin_Methods.pdb
